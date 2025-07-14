@@ -1,4 +1,4 @@
-# Wanderlust Web Project Installation Guide
+# Wanderlust Web Project Installation Guide made by divyansh yadav , follow the below given steps to complete its installation process locally on your machine.
 
 This guide will walk you through the installation process for the Wanderlust web project. Follow the steps below to set up the project locally on your machine.
 
