@@ -7,7 +7,7 @@ This guide will walk you through the installation process for the Wanderlust web
 Before you begin, make sure you have the following installed on your system:
 
 - Node.js (version 18 recommended)
-- MongoDB
+- MongoDB ( latest version )
 - Nodemon (installed globally)
 
 ## Installation Steps
