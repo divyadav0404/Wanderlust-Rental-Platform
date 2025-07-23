@@ -12,21 +12,21 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Installation Steps
 
- 1. Clone the Wanderlust repository from GitHub:
+ 1. Clone the Wanderlust repository from GitHub..:
 
    ```
    git clone https://github.com/gawandeabhishek/Wanderlust-Major-Project.git
    ```
 
 2. Set up the database:
-   - Create a `.env` file in the root directory of the project.
-   - Add the following line to the `.env` file:
+   - Create a `.env` file in the root directory of the project other than it the project will not run...!
+   - Add the following line to the `.env` file: (basically, how will you be able to connect to localhost server)
 
      ```
      ATLASDB_URL=mongodb://127.0.0.1:27017/wanderlust
      ```
 
-3. Set up Cloudinary:
+3. Set up Cloudinary account...:
    - Go to [Cloudinary](https://cloudinary.com/) and sign up for a free account.
    - Once logged in, obtain your Cloudinary `CLOUD_NAME`, `CLOUD_API_KEY`, and `CLOUD_API_SECRET`.
    - Add these values to the `.env` file:
@@ -37,7 +37,7 @@ Before you begin, make sure you have the following installed on your system:
      CLOUD_API_SECRET=your_api_secret
      ```
 
-4. Set the secret for your Cloudinary storage:
+4. Set the secret for your Cloudinary storage :
    - Add a `SECRET` key to your `.env` file and set it to a secure value:
 
      ```
