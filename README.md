@@ -1,20 +1,4 @@
-
-                                       
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  #Wanderlust Web Project Installation Guide made by divyansh yadav , follow the below given steps to complete its installation process locally on your machine.
+ #Wanderlust Web Project Installation Guide made by divyansh yadav , follow the below given steps to complete its installation process locally on your machine.
 
 This guide will walk you through the installation process for the Wanderlust web project. Follow the steps below to set up the project locally on your machine.
 
@@ -76,4 +60,4 @@ Before you begin, make sure you have the following installed on your system:
    - Once the server is running, you can access the project at [http://localhost:8080](http://localhost:8080).
 
 That's it! You have successfully installed and set up the Wanderlust web project on your local machine. If you encounter any issues during the installation process, feel free to reach out for assistance. Happy traveling! 🌍✈️
-![Home page preview of my website ](public/wanderlusthp.png.png)
+![Home page preview of my website ](public/Wanderlusthp.png.png)
