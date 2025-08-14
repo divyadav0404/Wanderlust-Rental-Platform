@@ -1,3 +1,5 @@
+//all listings will show here
+
 const Listing = require("../models/listing");
 const ExpressError = require("../utils/ExpressError.js");
 const { listingSchema } = require("../schema.js");
