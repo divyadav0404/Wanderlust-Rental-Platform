@@ -1,4 +1,4 @@
-//all listings will show here
+//all listings will show here //new lisitngs will also show here 
 
 const Listing = require("../models/listing");
 const ExpressError = require("../utils/ExpressError.js");
